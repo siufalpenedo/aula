@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1787079861 source:c:\users\thyago\desktop\aula\agenda\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedlist.h"
+
+1787079898 c:\users\thyago\desktop\aula\agenda\linkedlist.h
+
+1787078958 source:c:\users\thyago\desktop\aula\agenda\impl_0.c
+	<stdlib.h>
+	"linkedlist.h"
+
+1787079700 c:\users\thyago\desktop\aula\agenda\menu.h
+	"linkedlist.h"
+
