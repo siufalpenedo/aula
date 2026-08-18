@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/thyagotmo/Desktop/untitled/cmake-build-debug"
+			"value" : "/Users/thyagotmo/Desktop/projeto/agenda/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -383,7 +383,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/thyagotmo/Desktop/untitled/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/thyagotmo/Desktop/projeto/agenda/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -443,7 +443,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/thyagotmo/Desktop/untitled"
+			"value" : "/Users/thyagotmo/Desktop/projeto/agenda"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1031,7 +1031,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/thyagotmo/Desktop/untitled/cmake-build-debug"
+			"value" : "/Users/thyagotmo/Desktop/projeto/agenda/cmake-build-debug"
 		},
 		{
 			"name" : "untitled_IS_TOP_LEVEL",
@@ -1055,7 +1055,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/thyagotmo/Desktop/untitled"
+			"value" : "/Users/thyagotmo/Desktop/projeto/agenda"
 		}
 	],
 	"kind" : "cache",

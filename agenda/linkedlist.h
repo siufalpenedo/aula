@@ -3,12 +3,22 @@
 
 // A equipe 1 deverá resolver essa parte
 typedef struct data{
+    int dia;
+    int mes;
 } Data;
 
 typedef struct contato{
+    char nome[40];
+    char telefone[15];
+    char celular[15];
+    char email[40];
+    Data dataAniversario;
 } Contato;
 
 typedef struct node{
+    Contato contato;
+    struct node *next;
+    struct node *previous;
 } Node;
 
 Node* criarAgenda();
@@ -28,3 +38,4 @@ Node* removerContato(Node* agenda, char *nome);
 void processamento(Node* agenda);
 
 #endif // LINKEDLIST_H_INCLUDED
+

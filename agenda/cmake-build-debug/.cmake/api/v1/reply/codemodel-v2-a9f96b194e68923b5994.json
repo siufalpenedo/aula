@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "/Users/thyagotmo/Desktop/untitled/cmake-build-debug",
-		"source" : "/Users/thyagotmo/Desktop/untitled"
+		"build" : "/Users/thyagotmo/Desktop/projeto/agenda/cmake-build-debug",
+		"source" : "/Users/thyagotmo/Desktop/projeto/agenda"
 	},
 	"version" : 
 	{
